@@ -174,7 +174,7 @@ once the proposal exists.
 | ACCUSET SOLUTIONS | [accuset-solutions](node-providers/accuset-solutions/) | `cp5ib-twnmx-h4dvd-isef2-tu44u-kb2ka-fise5-m4hta-hnxoq-k45mm-hqe` | [123944](https://dashboard.internetcomputer.org/proposal/123944) |
 | achermann.swiss | [achermann-swiss](node-providers/achermann-swiss/) | `gjsts-tuec7-wp6cl-zmk6w-sfpp6-ei34c-l7njq-les4c-yupv3-hbcpg-tae` | [138365](https://dashboard.internetcomputer.org/proposal/138365) |
 | Aitubi AG | [aitubi-ag](node-providers/aitubi-ag/) | `znw2p-4cx6u-ocqls-277iu-2lkir-xjy7g-4s3sj-sjy6j-mtlay-rnnra-yqe` | [128809](https://dashboard.internetcomputer.org/proposal/128809) |
-| Allusion | [allusion](node-providers/allusion/) | `rbn2y-6vfsb-gv35j-4cyvy-pzbdu-e5aum-jzjg6-5b4n5-vuguf-ycubq-zae` | none |
+| Allusion BV | [allusion](node-providers/allusion/) | `rbn2y-6vfsb-gv35j-4cyvy-pzbdu-e5aum-jzjg6-5b4n5-vuguf-ycubq-zae` | none |
 | AlpineDC SA | [alpinedc-sa](node-providers/alpinedc-sa/) | `mrfhx-rsvqz-jndwd-3nrkb-fw3wy-cq64z-iszxt-drffc-f4rtj-ivoop-6ae` | [138081](https://dashboard.internetcomputer.org/proposal/138081) |
 | Anonstake | [anonstake](node-providers/anonstake/) | `kos24-5xact-6aror-uofg2-tnvt6-dq3bk-c2c5z-jtptt-jbqvc-lmegy-qae` | [107568](https://dashboard.internetcomputer.org/proposal/107568) |
 | ANTHONY ISAAKIDIS | [anthony-isaakidis](node-providers/anthony-isaakidis/) | `dnpkk-x67ir-zwcyz-fkgzz-547t7-papxf-zby5t-i2log-uodsf-pcizd-jae` | [136590](https://dashboard.internetcomputer.org/proposal/136590) |
