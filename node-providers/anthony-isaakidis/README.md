@@ -14,3 +14,4 @@
 | `anthony-isaakidis-proof-of-identity.jpg` | proof-of-identity | unknown | `09e65f4e73810708ad835198bb3d3f35b4e1dab75aa4ac33130769895f4c6de5` |
 | `anthony-isaakidis-excess-node-handover.pdf` | excess-node-handover | unknown | `3684023661e062cb8f2c0fd2183602251127a7bb166ef09b052ffdbb81d2f81f` |
 | `anthony-isaakidis-addendum.pdf` | addendum | unknown | `65d9c654ad0f5ad4905823be520acbac03a6a6ace47bc63032fbf312f14a937a` |
+| `anthony-isaakidis-self-declaration-2.pdf` | self-declaration | 2026-11-10 | `e6e3b87dab418a1c08679a9d61d0eb3537c58178ede7732588a20810f22cf481` |
